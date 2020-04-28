@@ -1,0 +1,19 @@
+.square {
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 2em;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px;
+}
